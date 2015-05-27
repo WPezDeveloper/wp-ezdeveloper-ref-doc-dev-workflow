@@ -2,6 +2,8 @@
 
 #### Tips, tricks, how tos, tools, etc.as it relates to (WordPress) design & development workflow. 
 
+###### NOTE: For now this is just a quick and simple "dump". It will be curated and organized sooner or later.
+
 ==================================================
 
 # Design
