@@ -11,7 +11,7 @@
 
 ==================================================
 
-@ Development
+# Development
 
 #### Automated Testing For WordPress Using Behat by Ari Gold
 - https://pantheon.io/blog/automated-testing-wordpress-using-beha
