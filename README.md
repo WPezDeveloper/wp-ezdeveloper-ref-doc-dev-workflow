@@ -1,4 +1,6 @@
-# WPezDeveloper - Design & Development Workflow
+### WordPress Reference Document
+# Design & Development Workflow
+### A WPezDeveloper product
 
 #### Tips, tricks, how tos, tools, etc.as it relates to (WordPress) design & development workflow. 
 
