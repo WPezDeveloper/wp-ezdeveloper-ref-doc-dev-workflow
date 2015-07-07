@@ -23,5 +23,8 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
-#### Automated Testing For WordPress Using Behat by Ari Gold
+##### How to Grunt and Gulp Your Way to Workflow Automation by Etienne Margraff
+ - http://www.sitepoint.com/how-to-grunt-and-gulp-your-way-to-workflow-automation/
+
+##### Automated Testing For WordPress Using Behat by Ari Gold
 - https://pantheon.io/blog/automated-testing-wordpress-using-behat
