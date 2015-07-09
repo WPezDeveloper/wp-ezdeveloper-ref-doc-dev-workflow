@@ -23,6 +23,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
+##### How to Build an npm Package
+ - http://blog.teamtreehouse.com/build-npm-package
+
 ##### A Simple Workflow From Development To Deployment by Rachel Andrew
  - http://www.smashingmagazine.com/2015/07/09/development-to-deployment-workflow/
 
