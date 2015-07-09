@@ -23,6 +23,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
+##### A Simple Workflow From Development To Deployment by Rachel Andrew
+ - http://www.smashingmagazine.com/2015/07/09/development-to-deployment-workflow/
+
 ##### How to Grunt and Gulp Your Way to Workflow Automation by Etienne Margraff
  - http://www.sitepoint.com/how-to-grunt-and-gulp-your-way-to-workflow-automation/
 
