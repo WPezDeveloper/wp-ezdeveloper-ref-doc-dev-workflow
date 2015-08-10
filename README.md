@@ -34,6 +34,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ##### Automated Testing For WordPress Using Behat - by Ari Gold
 - https://pantheon.io/blog/automated-testing-wordpress-using-behat
+
+
+##### April 2015 - Tips for Hosting WordPress on Pantheon - by Mark Jaquith
+ - https://markjaquith.wordpress.com/2015/04/13/wordpress-on-pantheon/
  
 
 ##### Jan 2015 - Using Grunt to automate redundant tasks in WordPress development - by Josh Pollock 
