@@ -23,6 +23,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
+##### Sassy Starter - A SMACSS-based Starter Toolkit
+ - http://minamarkham.github.io/sassy-starter/
+
+
 ##### JavaScript Workflow Automation Using Grunt and Gulp - Etienne Margraff (https://twitter.com/meulta)
  - http://code.tutsplus.com/tutorials/javascript-workflow-automation-using-grunt-and-gulp--cms-24586
 
