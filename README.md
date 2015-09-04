@@ -23,6 +23,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
+##### JavaScript Workflow Automation Using Grunt and Gulp - Etienne Margraff (https://twitter.com/meulta)
+ - http://code.tutsplus.com/tutorials/javascript-workflow-automation-using-grunt-and-gulp--cms-24586
+
+
 ##### How to Build an npm Package
  - http://blog.teamtreehouse.com/build-npm-package
 
