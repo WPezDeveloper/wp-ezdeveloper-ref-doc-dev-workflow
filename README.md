@@ -18,6 +18,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Design
 
+#####Git for Designers - Or anyone who really wants to use it but has no idea how
+ - https://medium.com/@dfosco/git-for-designers-856c434716e#.m84327y88
+
 
 ==================================================
 
