@@ -26,6 +26,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
+##### December 2016 - 17 Free Yet Powerful Tools To Check Your WordPress Website Regularly
+   - https://codeable.io/free-tools-to-check-website/
+
 ##### PostCSS.parts - A searchable catalog of PostCSS plugins
  - http://postcss.parts/
 
