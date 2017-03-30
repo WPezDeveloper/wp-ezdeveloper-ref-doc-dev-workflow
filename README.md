@@ -26,6 +26,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 # Development
 
+##### March 2017 - Become a Better WordPress Developer with these Local Development Plugins
+ - https://torquemag.io/2017/03/become-better-wordpress-developer-local-development-plugins/
+
 ##### December 2016 - 17 Free Yet Powerful Tools To Check Your WordPress Website Regularly
    - https://codeable.io/free-tools-to-check-website/
 
